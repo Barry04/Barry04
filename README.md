@@ -16,3 +16,22 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+
+
+
+### 你好，世界 👋
+
+- :orange_book: Focusing on Swift & iOS
+- :hammer: Creator of applications and frameworks
+- :ram: Founder the ObjCCN
+- :meat_on_bone: Meat lover
+### Github Status :coffee:
+
+[![Barry04's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barry04)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barry04&layout=compact" width="350" >
+
+
+
+
+<img align='Right' src="https://profile-counter.glitch.me/Barry04/count.svg" width="200">
