@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 - :meat_on_bone: Meat lover
 ### Github Status :coffee:
 
-[![Barry04's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barry04)](https://github.com/anuraghazra/github-readme-stats)
+[![Barry04's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barry04&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barry04&layout=compact" width="350" >
-
-
-
+### Top Langs 🔭
 
 <img align='Right' src="https://profile-counter.glitch.me/Barry04/count.svg" width="200">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barry04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
