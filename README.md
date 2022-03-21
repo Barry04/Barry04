@@ -27,10 +27,14 @@ Here are some ideas to get you started:
 - :meat_on_bone: Meat lover
 ### Github Status :coffee:
 
-[![Barry04's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barry04&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://raw.githubusercontent.com/Barry04/github-profile/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Barry04/github-profile/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Barry04/github-profile/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Barry04/github-profile/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Barry04/github-profile/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 ### Top Langs 🔭
 
 <img align='Right' src="https://profile-counter.glitch.me/Barry04/count.svg" width="200">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barry04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
