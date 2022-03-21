@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/Barry04/github-profile/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Barry04/github-profile/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Barry04/github-profile/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Barry04/github-profile/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Barry04/DelayingQueue,Barry04/genshin-sign&type=Date)](https://star-history.com/#Barry04/DelayingQueue&Barry04/genshin-sign&Date)
+
 
 ### Top Langs 🔭
 
