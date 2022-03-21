@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Follow on Twitter](https://img.shields.io/twitter/follow/SecSummers.svg)](https://twitter.com/intent/follow?screen_name=Barru04)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/Barry04.svg)](https://twitter.com/intent/follow?screen_name=Barry04)
 
 
 
